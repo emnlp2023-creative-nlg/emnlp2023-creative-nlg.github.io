@@ -14,7 +14,18 @@ permalink: /
 Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state-of-the-art in several natural language generation tasks such as text summarization and machine translation. However, when it comes to open-ended tasks with a focus on creativity such as generating stories, poetry, or various forms of figurative language, these state-of-the-art language models are often found to be inadequate.This tutorial aims to bring awareness of the important and emerging research area of open-domain creative generation, with a focus on language generation while also touching on multi-modal generation (e.g., image captioning, visual metaphors). It targets natural language processing (NLP) and artificial intelligence (AI) researchers as well as creative writing practitioners who are interested in building systems that are capable of emulating as well as augmenting human creativity. In particular, we will review recent studies on creative language generation both at the sentence level as well as longer forms of text. We will provide the audiences with a holistic view of 1) the importance and challenges of building creative language generation systems; 2) how we incorporate content planning, domain knowledge, and creativity-specific heuristics for different forms of creative language generation such as story, poetry, humor, metaphors, etc. 3) how can we build better evaluation methods for creative text generation in standalone as well as interactive settings? In particular, how could the recent advancement of AI shape the future workforce for creativity? We will conclude the tutorial by outlining future research directions in this area.
 
 
-Click on each chapter to view the video recording and the slides: Coming Soon
+Click on each chapter to view the reading lists for each: 
+<details>
+<summary>Overview and Historical Perspective of Creativity in NLP</summary>
+<br>
+TALESPIN
+Poetics
+</details>
+<details>
+<summary>Content Planning</summary>
+<br>
+Aristotelian Rescoring
+</details>
 
 ## Speakers
 
@@ -44,5 +55,5 @@ Click on each chapter to view the video recording and the slides: Coming Soon
 </div>
 
 
-### Acknowledgement
+## Acknowledgement
 Code for this webpage was adapted from a past <a href="https://xai-hcee.github.io/">tutorial</a> originally written by <a href="https://ihsgnef.github.io/">Shi Feng</a>
