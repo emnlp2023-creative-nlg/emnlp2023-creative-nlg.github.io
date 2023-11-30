@@ -430,8 +430,7 @@ a:visited { color: #205caa; }
 }
 
 .height150 {
-    /* height: 300px; */
-    width: 25%;
+    height: 300px; 
 }
 
 
