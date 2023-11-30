@@ -1,0 +1,16 @@
+# Site settings
+title: "EMNLP 23 Tutorial on Creative NLG"
+baseurl: ""
+url: "emnlp2023-creative-nlg.github.io"
+
+navbar-links:
+    Overview: "/#overview"
+    Speakers: "/#speakers"
+    References: "references"
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
