@@ -53,7 +53,3 @@ Aristotelian Rescoring
         <div style="margin-bottom:40px"><center><b>Vishakh Padmakumar</b><br>NYU</center></div>
     </div>
 </div>
-
-
-## Acknowledgement
-Code for this webpage was adapted from a past <a href="https://xai-hcee.github.io/">tutorial</a> originally written by <a href="https://ihsgnef.github.io/">Shi Feng</a>
