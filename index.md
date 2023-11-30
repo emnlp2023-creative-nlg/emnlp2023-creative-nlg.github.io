@@ -6,33 +6,32 @@ permalink: /
 
 ## Speakers
 
+<div>
 <div class="col-md-4">
     <div class="profile height150">
-        <div><a href="https://vnpeng.net/"><img class="avatar-img" width=150 src="images/violet-profile.png"></a></div>
+        <div><a href="https://vnpeng.net/"><img class="avatar-img" width=110 src="images/violet-profile.png"></a></div>
         <div style="margin-bottom:40px"><center><b>Nanyun (Violet) Peng</b><br>UCLA</center></div>
     </div>
 </div>
 <div class="col-md-4">
     <div class="profile height150">
-        <div><a href="https://hhexiy.github.io"><img class="avatar-img" width=150 src="images/hehe-profile.png"> </a></div>
+        <div><a href="https://hhexiy.github.io"><img class="avatar-img" width=110 src="images/hehe-profile.png"> </a></div>
         <div style="margin-bottom:40px"><center><b>He He</b><br>NYU</center></div>
     </div>
 </div>
 <div class="col-md-4">
     <div class="profile height150">
-        <div><a href="https://tuhinjubcse.github.io/"><img class="avatar-img" width=150 src="images/tuhin-profile.png"></a></div>
+        <div><a href="https://tuhinjubcse.github.io/"><img class="avatar-img" width=110 src="images/tuhin-profile.png"></a></div>
         <div style="margin-bottom:40px"><center><b>Tuhin Chakrabarty</b><br>Columbia</center></div>
     </div>
 </div>
 <div class="col-md-4">
     <div class="profile height150">
-        <div><a href="http://vishakhpk.github.io"><img class="avatar-img" width=150 src="images/vishakh-profile.jpeg"></a></div>
+        <div><a href="http://vishakhpk.github.io"><img class="avatar-img" width=110 src="images/vishakh-profile.jpeg"></a></div>
         <div style="margin-bottom:40px"><center><b>Vishakh Padmakumar</b><br>NYU</center></div>
     </div>
 </div>
-<br>
-<br>
-<br>
+</div>
 
 ## Overview
 
