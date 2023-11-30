@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-## Speakers
+# Speakers
 
 <div>
 <div class="col-md-4">
@@ -32,6 +32,7 @@ permalink: /
     </div>
 </div>
 </div>
+<br/><br/>
 
 ## Overview
 
