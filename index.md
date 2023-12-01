@@ -81,6 +81,8 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     <a target="_blank" href="https://aclanthology.org/2020.emnlp-main.351.pdf">Content Planning for Neural Story Generation with Aristotelian Rescoring</a>Goldfarb-Tarrant et al (2020)</li><br>
 <b>PLAN AND WRITE BY PROMPTING LLMS</b>
     <br>
+    <a target="_blank" href="https://aclanthology.org/2022.naacl-main.262/">Zero-shot Sonnet Generation with Discourse-level Planning and Aesthetics Features
+ </a>Tian et al (2022)</li><br>
     <a target="_blank" href="https://aclanthology.org/2022.emnlp-main.296/">Re3: Generating Longer Stories With Recursive Reprompting and Revision </a>Yang et al (2022)</li><br>
     <a target="_blank" href="https://aclanthology.org/2023.acl-long.190/">DOC: Improving Long Story Coherence With Detailed Outline Control </a>Yang et al (2023)</li>
     <br>
@@ -103,3 +105,17 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     <br>
     <a target="_blank" href="https://aclanthology.org/2023.findings-acl.465.pdf">I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors </a>Chakrabarty et al (2023)</li><br>
 </details>
+<details>
+<summary>Distilling Creativity to an Algorithm</summary>
+<br>
+<b>FORMULATE PRIOR, DEVISE ALGORITHM</b>
+<br>
+    <a target="_blank" href="https://aclanthology.org/N19-1172/">Pun Generation with Surprise </a>He et al (2019)</li>
+    <br>
+<b>FORMULATE PRIOR, LEARN STRUCTURE, DEVISE ALGORITHM</b>
+    <br>
+    <a target="_blank" href="https://aclanthology.org/2022.findings-emnlp.237/">A Unified Framework for Pun Generation with Humor Principles </a>Tian et al (2022)</li><br>
+</details>
+
+
+
