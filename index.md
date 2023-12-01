@@ -86,3 +86,21 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     <a target="_blank" href="https://aclanthology.org/2023.acl-long.190/">DOC: Improving Long Story Coherence With Detailed Outline Control </a>Yang et al (2023)</li>
     <br>
 </details>
+<details>
+<summary>Incorporating Domain Knowledge</summary>
+<br>
+<b>DOMAIN KNOWLEDGE FROM WEB</b>
+<br>
+    <a target="_blank" href="https://cdn.aaai.org/AAAI/2007/AAAI07-233.pdf">Comprehending and Generating Apt Metaphors: A Web-driven, Case-based Approach to Figurative Language 
+    </a>Veale et al (2007)</li>
+    <br>
+<b>DOMAIN KNOWLEDGE FROM EXTERNAL KNOWLEDGE MODELS</b>
+    <br>
+    <a target="_blank" href="https://aclanthology.org/2020.emnlp-main.524.pdf">Generating similes effortlessly like a Pro : A Style Transfer Approach for Simile Generation </a>Chakrabarty et al (2020)</li><br>
+    <a target="_blank" href="https://aclanthology.org/2021.naacl-main.336.pdf">MERMAID: Metaphor Generation with Symbolism and Discriminative Decoding
+     </a>Chakrabarty et al (2021)</li>
+    <br>
+<b>DOMAIN KNOWLEDGE FROM PROMPTING LLMS</b>
+    <br>
+    <a target="_blank" href="https://aclanthology.org/2023.findings-acl.465.pdf">I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors </a>Chakrabarty et al (2023)</li><br>
+</details>
