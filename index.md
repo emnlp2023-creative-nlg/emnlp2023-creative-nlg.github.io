@@ -64,7 +64,6 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     </a>Hovy et al (1987)</li><br>
     <a target="_blank" href="https://aclanthology.org/P05-3029.pdf">HAHAcronym: A Computational Humor System </a>Stock et al (2005)</li><br>
 </details>
-<br>
 <details>
 <summary>Content Planning</summary>
 <br>
