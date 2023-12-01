@@ -48,12 +48,32 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
 **Click on each chapter to view the reading lists:** 
 <details>
 <summary>Overview and Historical Perspective of Creativity in NLP</summary>
+TALESPIN
 <br>
-TALESPIN <br>
-Poetics
+<a target="_blank" href="https://www.ijcai.org/Proceedings/77-1/Papers/013.pdf">TALE-SPIN, AN INTERACTIVE PROGRAM THAT WRITES STORIES</a>Meehan et al (1977)</li>
+<br>
+<a target="_blank" href="https://www.ijcai.org/Proceedings/81-1/Papers/004.pdf">STORY GENERATION AFTER TALE-SPIN</a>Dehn et al (1981)</li>
+<br>
 </details>
-<details>
+<a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/0304422X84900019">Creating characters in a story-telling universe</a>Lebowitz et al (1984)<br>
+<a target="_blank" href="https://era.ed.ac.uk/bitstream/handle/1842/3461/0016.pdf?sequence=1&isAllowed=y">A Flexible Integrated Architecture For Generating Poetic Texts</a>Manurung et al (2000)<br>
+<a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/0378216687901093">Generating natural language under pragmatic constraints
+</a>Hovy et al (1987)<br>
+<a target="_blank" href="https://aclanthology.org/P05-3029.pdf">HAHAcronym: A Computational Humor System</a>Stock et al (2005)<br>
+</li>
+<br>
 <summary>Content Planning</summary>
 <br>
-Aristotelian Rescoring
+<a target="_blank" href="https://vnpeng.net/bibliography/yao2019plan/">Plan-And-Write: Towards Better Automatic Storytelling
+</a>Yao et al (2019)</li>
+<br>
+<a target="_blank" href="https://aclanthology.org/P19-1254/">Strategies for Structuring Story Generation</a>Fan et al (2019)</li>
+<br>
+<a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/11430">Event Representations for Automated Story Generation with Deep Neural Nets
+</a>Martin et al (2018)</li>
+<br>
+<a target="_blank" href="https://aclanthology.org/2020.emnlp-main.351.pdf">Content Planning for Neural Story Generation with Aristotelian Rescoring</a>Goldfarb-Tarrant et al (2020)</li>
+<a target="_blank" href="https://aclanthology.org/2022.emnlp-main.296/">Re3: Generating Longer Stories With Recursive Reprompting and Revision</a>Yang et al (2022)</li>
+<a target="_blank" href="https://aclanthology.org/2023.acl-long.190/">DOC: Improving Long Story Coherence With Detailed Outline Control</a>Yang et al (2023)</li>
+<br>
 </details>
