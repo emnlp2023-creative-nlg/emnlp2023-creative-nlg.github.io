@@ -131,7 +131,7 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     <br>
     <a target="_blank" href="https://aclanthology.org/2022.naacl-main.42/">Machine-in-the-Loop Rewriting for Creative Image Captioning </a>Padmakumar et al (2022)</li>
     <br>
-    <a target="_blank" href="https://arxiv.org/pdf/2210.13669.pdf">Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing </a>Tian Chakrabarty al (2022)</li>
+    <a target="_blank" href="https://arxiv.org/pdf/2210.13669.pdf">Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing </a> Chakrabarty al (2022)</li><br>
     <a target="_blank" href="https://arxiv.org/pdf/2309.12570.pdf">Creativity Support in the Age of Large Language Models: An Empirical Study Involving Emerging Writers </a>Chakrabarty et al (2023)</li>
     <br>
 </details>
