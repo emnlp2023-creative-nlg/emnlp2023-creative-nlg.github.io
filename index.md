@@ -117,17 +117,6 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     <a target="_blank" href="https://aclanthology.org/2022.findings-emnlp.237/">A Unified Framework for Pun Generation with Humor Principles </a>Tian et al (2022)</li><br>
 </details>
 <details>
-<summary>Distilling Creativity to an Algorithm</summary>
-<br>
-<b>FORMULATE PRIOR, DEVISE ALGORITHM</b>
-<br>
-    <a target="_blank" href="https://aclanthology.org/N19-1172/">Pun Generation with Surprise </a>He et al (2019)</li>
-    <br>
-<b>FORMULATE PRIOR, LEARN STRUCTURE, DEVISE ALGORITHM</b>
-    <br>
-    <a target="_blank" href="https://aclanthology.org/2022.findings-emnlp.237/">A Unified Framework for Pun Generation with Humor Principles </a>Tian et al (2022)</li><br>
-</details>
-<details>
 <summary>Human Centered Evaluation of Creative Writing</summary>
 <br>
     <a target="_blank" href="https://arxiv.org/pdf/2309.14556.pdf">Art or Artifice? Large Language Models and the False Promise of Creativity </a>Chakrabarty et al (2023)</li>
