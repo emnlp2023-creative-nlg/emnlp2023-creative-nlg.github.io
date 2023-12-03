@@ -116,6 +116,36 @@ Large language models such as GPT-3, GPT-4, Claude etc., have advanced the state
     <br>
     <a target="_blank" href="https://aclanthology.org/2022.findings-emnlp.237/">A Unified Framework for Pun Generation with Humor Principles </a>Tian et al (2022)</li><br>
 </details>
+<details>
+<summary>Distilling Creativity to an Algorithm</summary>
+<br>
+<b>FORMULATE PRIOR, DEVISE ALGORITHM</b>
+<br>
+    <a target="_blank" href="https://aclanthology.org/N19-1172/">Pun Generation with Surprise </a>He et al (2019)</li>
+    <br>
+<b>FORMULATE PRIOR, LEARN STRUCTURE, DEVISE ALGORITHM</b>
+    <br>
+    <a target="_blank" href="https://aclanthology.org/2022.findings-emnlp.237/">A Unified Framework for Pun Generation with Humor Principles </a>Tian et al (2022)</li><br>
+</details>
+<details>
+<summary>Human Centered Evaluation of Creative Writing</summary>
+<br>
+    <a target="_blank" href="https://arxiv.org/pdf/2309.14556.pdf">Art or Artifice? Large Language Models and the False Promise of Creativity </a>Chakrabarty et al (2023)</li>
+    <br>
+</details>
+<details>
+<summary>Human AI collaboration for Creativity</summary>
+<br>
+    <a target="_blank" href="https://dl.acm.org/doi/10.1145/3172944.3172983">Creative writing with a machine in the loop: Case studies on slogans and stories </a>Clark et al (2018)</li>
+    <br>
+    <a target="_blank" href="https://aclanthology.org/2020.emnlp-main.525/">STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation </a>Akoury et al (2019)</li>
+    <br>
+    <a target="_blank" href="https://aclanthology.org/2022.naacl-main.42/">Machine-in-the-Loop Rewriting for Creative Image Captioning </a>Padmakumar et al (2022)</li>
+    <br>
+    <a target="_blank" href="https://arxiv.org/pdf/2210.13669.pdf">Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing </a>Tian Chakrabarty al (2022)</li>
+    <a target="_blank" href="https://arxiv.org/pdf/2309.12570.pdf">Creativity Support in the Age of Large Language Models: An Empirical Study Involving Emerging Writers </a>Chakrabarty et al (2023)</li>
+    <br>
+</details>
 
 
 
